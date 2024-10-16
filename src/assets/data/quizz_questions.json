@@ -1,0 +1,155 @@
+{
+  "title":"Você seria um heroi ou vilão ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual super poder você escolheria ?",
+      "options":[
+        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
+        {"id": 2, "name":"Voar", "alias":"B"},
+        {"id": 3, "name":"Explodir coisas", "alias":"A"},
+        {"id": 4, "name":"Curar feridas", "alias":"B"},
+        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Quem você salvaria primeiro ?",
+      "options":[
+        {"id": 1, "name":"Crianças", "alias":"A"},
+        {"id": 2, "name":"Idosos", "alias":"A"},
+        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "options":[
+        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
+        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
+        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
+        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual o seu maior foco ?",
+      "options":[
+        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
+        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual o seu apelido de super ser ?",
+      "options":[
+        {"id": 1, "name":"O Terrivel", "alias":"A"},
+        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Como você lidaria com uma ameaça iminente ao mundo?",
+      "options": [
+        {"id": 1, "name":"Enfrentaria a ameaça de frente", "alias":"B"},
+        {"id": 2, "name":"Faria um plano para derrotar a ameaça e lucrar com isso", "alias":"A"},
+        {"id": 3, "name":"Se esconderia até a ameaça passar", "alias":"A"},
+        {"id": 4, "name":"Formaria uma equipe para combater a ameaça", "alias":"B"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "O que você faria com seus poderes em um dia comum?",
+      "options": [
+        {"id": 1, "name":"Ajudaria pessoas", "alias":"B"},
+        {"id": 2, "name":"Usaria para ganhar vantagens pessoais", "alias":"A"},
+        {"id": 3, "name":"Iria explorar seus poderes para entender seus limites", "alias":"B"},
+        {"id": 4, "name":"Ficaria em casa sem usar os poderes", "alias":"A"}
+      ]
+    },
+    {
+      "id":8,
+      "question": "Qual seria sua fraqueza?",
+      "options": [
+        {"id": 1, "name":"Preocupação excessiva com os outros", "alias":"B"},
+        {"id": 2, "name":"Ganância", "alias":"A"},
+        {"id": 3, "name":"Arrogância", "alias":"A"},
+        {"id": 4, "name":"Empatia exagerada", "alias":"B"}
+      ]
+    },
+    {
+      "id":9,
+      "question": "Você deixaria alguém escapar por ser bondoso demais?",
+      "options": [
+        {"id": 1, "name":"Sim, todo mundo merece uma segunda chance", "alias":"B"},
+        {"id": 2, "name":"Não, ninguém escapa da minha justiça", "alias":"A"},
+        {"id": 3, "name":"Somente se fosse alguém que amo", "alias":"B"},
+        {"id": 4, "name":"Dependeria das circunstâncias", "alias":"A"}
+      ]
+    },
+    {
+      "id":10,
+      "question": "Como você se sentiria ao ser reconhecido pelo público?",
+      "options": [
+        {"id": 1, "name":"Feliz em poder inspirar outros", "alias":"B"},
+        {"id": 2, "name":"Usaria a fama para aumentar meu poder", "alias":"A"},
+        {"id": 3, "name":"Prefiro trabalhar nas sombras", "alias":"A"},
+        {"id": 4, "name":"Satisfeito por ser reconhecido pelo bem que fiz", "alias":"B"}
+      ]
+    },
+    {
+      "id":11,
+      "question": "O que você faria ao encontrar um vilão mais poderoso que você?",
+      "options": [
+        {"id": 1, "name":"Procuraria uma aliança para enfrentá-lo", "alias":"B"},
+        {"id": 2, "name":"Usaria astúcia para derrotá-lo e tomar seu lugar", "alias":"A"},
+        {"id": 3, "name":"Fugiria para planejar minha vingança", "alias":"A"},
+        {"id": 4, "name":"Tentaria convencê-lo a mudar de lado", "alias":"B"}
+      ]
+    },
+    {
+      "id":12,
+      "question": "Qual seu sentimento ao vencer uma batalha difícil?",
+      "options": [
+        {"id": 1, "name":"Gratidão por proteger os inocentes", "alias":"B"},
+        {"id": 2, "name":"Orgulho por ter superado um desafio", "alias":"A"},
+        {"id": 3, "name":"Felicidade por ter alcançado meus objetivos", "alias":"B"},
+        {"id": 4, "name":"Indiferença, é apenas parte do meu trabalho", "alias":"A"}
+      ]
+    },
+    {
+      "id":13,
+      "question": "Como você usaria sua inteligência?",
+      "options": [
+        {"id": 1, "name":"Para criar soluções pacíficas", "alias":"B"},
+        {"id": 2, "name":"Para manipular e controlar", "alias":"A"},
+        {"id": 3, "name":"Para criar invenções que beneficiem a humanidade", "alias":"B"},
+        {"id": 4, "name":"Para criar armadilhas para meus inimigos", "alias":"A"}
+      ]
+    },
+    {
+      "id":14,
+      "question": "Como você reagiria se perdesse uma batalha?",
+      "options": [
+        {"id": 1, "name":"Iria treinar e voltar mais forte", "alias":"B"},
+        {"id": 2, "name":"Se vingaria a qualquer custo", "alias":"A"},
+        {"id": 3, "name":"Aceitaria a derrota e seguiria em frente", "alias":"B"},
+        {"id": 4, "name":"Culparia os outros pela derrota", "alias":"A"}
+      ]
+    },
+    {
+      "id":15,
+      "question": "Qual sua visão sobre o futuro da humanidade?",
+      "options": [
+        {"id": 1, "name":"Acredita que o bem prevalecerá", "alias":"B"},
+        {"id": 2, "name":"Acredita que só o poder trará ordem", "alias":"A"},
+        {"id": 3, "name":"A humanidade deve evoluir por conta própria", "alias":"B"},
+        {"id": 4, "name":"A humanidade está fadada ao fracasso", "alias":"A"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria um super vilão!",
+    "B": "Você muito provavelmente seria um super Herói!"
+  }
+}
